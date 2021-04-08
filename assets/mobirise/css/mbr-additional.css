@@ -11,11 +11,11 @@ body {
 }
 .display-1 {
   font-family: 'Bebas Neue', display;
-  font-size: 6rem;
+  font-size: 5.4rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 7.5rem;
+  font-size: 6.75rem;
 }
 .display-2 {
   font-family: 'Jost', sans-serif;
@@ -56,14 +56,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 4.8rem;
+    font-size: 4.32rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 4.2rem;
-    font-size: calc( 2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.78rem;
+    font-size: calc( 2.54rem + (5.4 - 2.54) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.54rem + (5.4 - 2.54) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -4176,14 +4176,14 @@ a {
     left: -1rem;
   }
 }
-.cid-stP3JLFYBq {
-  background-image: url("../../../assets/images/screenshot-9-1919x1079.png");
+.cid-stZJl6R8Xi {
+  background-image: url("../../../assets/images/screenshot-1-1919x1079.png");
 }
 @media (max-width: 991px) {
-  .cid-stP3JLFYBq .mbr-section-title,
-  .cid-stP3JLFYBq .mbr-section-subtitle,
-  .cid-stP3JLFYBq .mbr-section-btn,
-  .cid-stP3JLFYBq .mbr-text {
+  .cid-stZJl6R8Xi .mbr-section-title,
+  .cid-stZJl6R8Xi .mbr-section-subtitle,
+  .cid-stZJl6R8Xi .mbr-section-btn,
+  .cid-stZJl6R8Xi .mbr-text {
     text-align: center;
   }
 }
